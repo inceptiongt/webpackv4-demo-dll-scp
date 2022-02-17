@@ -10,7 +10,7 @@ console.info(sayHi());
 console.info(sayHello());
 console.info(sayHello === sayHello2);
 
-const data = map(['Aindex', 'B', true, false], function (item) {
+const data = map(['Aindex2', 'B2', true, false], function (item) {
     return isboolean(item) ? String(item) : item
 });
 console.info(data);
