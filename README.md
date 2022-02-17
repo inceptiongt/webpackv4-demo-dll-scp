@@ -1,6 +1,10 @@
-# webpack@4 dll demo
+# webpack@4 demo
 
-dll-plugin demo for webpack@4
+dll-plugin demo and SplitChunksPlugin demo for webpack@4
+
+branch master for dll-plugin demo
+branch splitchunks for SCP demo 
+
 
 ## Usage
 
@@ -15,3 +19,5 @@ build bundle with dll:
 ```sh
 yarn build
 ```
+
+SplitChunksPlugin demo use XXXXX2
